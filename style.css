@@ -1,0 +1,68 @@
+body {
+    background-image: url(images/background\ tamagochi.png);
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+.hamster {
+    width: 490px;
+    margin-left: 10em;
+    height: 100%;
+}
+
+.button {
+    width: 250px;
+    margin-left: 6.5em;
+    height: 100%;
+}
+
+.foodIcon {
+    margin-left: 14.2em;
+    width: 25%;
+    margin-bottom: 2em;
+}
+
+.heartIcon {
+    margin-bottom: em;
+    margin-left: 14.2em;
+    width: 25%;
+}
+
+.funIcon {
+    width: 25%;
+    margin-left: 14.2em;
+}
+
+.sleepIcon {
+    width: 25%;
+    margin-left: 14.2em;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    margin-left: .3em;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    height: 10%;
+}
+
+.buttons img{
+    margin-bottom: 1em;
+}
+
+.icons img{
+    margin-bottom: 3em;
+}
