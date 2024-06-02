@@ -51,6 +51,7 @@ function feed() {
         foodStatus = 2;
     }
     foodAudio.play();
+   // https://domoticx.com/javascript-audio-afspelen-in-webbrowser/ 
 }
 
 function medicine() {
