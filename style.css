@@ -27,7 +27,6 @@ h1 {
 }
 
 .heartIcon {
-    margin-bottom: em;
     margin-left: 14.2em;
     width: 25%;
 }
@@ -48,21 +47,21 @@ h1 {
     margin-left: .3em;
 }
 
-div{
+div {
     display: flex;
     flex-direction: row;
 }
 
-.buttons{
+.buttons {
     display: flex;
     flex-direction: column;
     height: 10%;
 }
 
-.buttons img{
+.buttons img {
     margin-bottom: 1em;
 }
 
-.icons img{
+.icons img {
     margin-bottom: 3em;
 }
